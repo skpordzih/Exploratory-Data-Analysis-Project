@@ -44,10 +44,10 @@ plt.show()
 ### Findings
 
 The analysis results are summarized as follows:
-Asia and Africa exhibit the highest population growth rates and overall population sizes.
+- Asia and Africa exhibit the highest population growth rates and overall population sizes.
 Top 10 Most Populated Countries: China, India, and the United States are the top three most populated countries in 2022, followed by Indonesia, Pakistan, Nigeria, Brazil, Bangladesh, Russia, and Mexico.
-The population of these countries has generally increased over the years, with variations in growth rates observed. China and India exhibit substantial population growth, while countries like the United States and Russia show more stable growth patterns.
-A moderate positive correlation exists between population size and area, indicating that larger countries tend to have larger populations. However, population density shows a weak negative correlation with population size.The correlation between population growth rate and other factors like area and density is relatively weak, suggesting that population growth is influenced by various factors beyond geographical considerations.
+- The population of these countries has generally increased over the years, with variations in growth rates observed. China and India exhibit substantial population growth, while countries like the United States and Russia show more stable growth patterns.
+- A moderate positive correlation exists between population size and area, indicating that larger countries tend to have larger populations. However, population density shows a weak negative correlation with population size.The correlation between population growth rate and other factors like area and density is relatively weak, suggesting that population growth is influenced by various factors beyond geographical considerations.
 
 ### Recommendations
 Based on the analysis, I recommed the following actions:
