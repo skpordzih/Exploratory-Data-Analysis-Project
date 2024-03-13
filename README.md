@@ -4,6 +4,12 @@
 
 This data analysis project aims to analyze world population trends across different continents. The dataset used contains various demographic indicators such as population counts from different years, population density, growth rates, etc., for countries across the globe. The primary objective is to gain insights into how population dynamics have evolved over time and to identify any significant patterns or trends.
 
+![graph_image](https://github.com/skpordzih/Exploratory-Data-Analysis-Project/assets/163223093/0a9c87cd-c106-4d78-bc0b-6867afb7dc7b)
+
+
+
+
+
 ### Data Sources
 
 World Population Data: The primary dataset used for this analysis is the 'world_population.csv' file.
